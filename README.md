@@ -3,8 +3,8 @@
 <!--
 **MisterZurg/MisterZurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on Project: [Loan Calculator](https://hyperskill.org/projects/90?track=2)
-- 🌱 I’m currently learning [Python: основы и применение](https://stepik.org/course/512/syllabus)
+- ⚙️ I’m currently working on Project: [None](None)
+- 💡 I’m currently learning [Python: основы и применение](https://stepik.org/course/512/syllabus)
 - ⚡ Fun fact: Мой любимый цвет - весенний!
 
 <p align="center"> 
