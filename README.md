@@ -1,10 +1,12 @@
 ### Hello there 👋
 ...General kenobi
 <!--
-**MisterZurg/MisterZurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**MisterZurg/MisterZurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
 
 - ⚙️ I’m currently working on Project: [Simple Search Engine](https://hyperskill.org/projects/89?track=3)
 - 💡 I’m currently learning [Java. Базовый курс](https://stepik.org/course/187/syllabus)
+- 📖 I’m currently reading "Head First Go" by Jay McGavren
 - ⚡ Fun fact: Мой любимый цвет - весенний!
 
 <p align="center"> 
@@ -13,14 +15,20 @@
 </p>
 
 ### 💬 Social 
-<p align="center"> 
+<p align="center">
+  <a href="@misterzurg">
+    <img align="center" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/telegram.svg" />
+  </a>
   <a href="https://discord.gg/HruUqGwrkN">
     <img align="center" alt="Mister_Zurg's Discord Server" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/discord.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%B7%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2-2104b4129/">
+  <a href="https://www.linkedin.com/in/misterzurg/">
     <img align="center" alt="Mister_Zurg's LinkedIN" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/linkedin.svg" />
   </a>
   <a>
     <img align="center" alt="@misterzurg" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/vk.svg" />
+  </a>
+  <a href="https://stepik.org/users/37767932">
+    <img align="center" alt="Stepik" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/stepik.svg" />
   </a>
 </p>
