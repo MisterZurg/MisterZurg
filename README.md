@@ -16,19 +16,19 @@
 
 ### 💬 Social 
 <p align="center">
-  <a href="@misterzurg">
-    <img align="center" alt="Telegram" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/telegram.svg" />
+  <a href="https://t.me/misterzurg">
+    <img align="center" alt="Telegram chat" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/telegram.svg" />
   </a>
   <a href="https://discord.gg/HruUqGwrkN">
-    <img align="center" alt="Mister_Zurg's Discord Server" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/discord.svg" />
+    <img align="center" alt="Discord Server" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/discord.svg" />
   </a>
   <a href="https://www.linkedin.com/in/misterzurg/">
-    <img align="center" alt="Mister_Zurg's LinkedIN" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/linkedin.svg" />
+    <img align="center" alt="LinkedIn page" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/linkedin.svg" />
   </a>
   <a>
     <img align="center" alt="@misterzurg" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/vk.svg" />
   </a>
   <a href="https://stepik.org/users/37767932">
-    <img align="center" alt="Stepik" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/stepik.svg" />
+    <img align="center" alt="Stepik profile" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/stepik.svg" />
   </a>
 </p>
