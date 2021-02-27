@@ -15,9 +15,12 @@
 ### 💬 Social 
 <p align="center"> 
   <a href="https://discord.gg/HruUqGwrkN">
-    <img align="center" alt="Mister_Zurg's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    <img align="center" alt="Mister_Zurg's Discord Server" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/discord.svg" />
   </a>
   <a href="https://www.linkedin.com/in/%D0%B4%D0%B5%D0%BD%D0%B8%D1%81-%D0%B7%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2-2104b4129/">
-    <img align="center" alt="Mister_Zurg's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="center" alt="Mister_Zurg's LinkedIN" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/linkedin.svg" />
+  </a>
+  <a>
+    <img align="center" alt="@misterzurg" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/vk.svg" />
   </a>
 </p>
