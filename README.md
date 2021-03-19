@@ -6,6 +6,7 @@
 
 - ⚙️ I’m currently working on Project: [Encryption-Decryption](https://hyperskill.org/projects/46/stages/245/preview)
 - 💡 I’m currently learning [Java. Базовый курс](https://stepik.org/course/187/syllabus)
+- 📘 Also I’m learning [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
 - 📖 I’m currently reading "Head First Go" by Jay McGavren
 - ⚡ Fun fact: Мой любимый цвет - весенний!
 
@@ -28,10 +29,13 @@
   <a href="https://career.habr.com/misterzurg">
     <img align="center" alt="career habr" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/career_habr.svg" />
   </a>
-  <a>
+  <a href="https://vk.com/misterzurg">
     <img align="center" alt="@misterzurg" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/vk.svg" />
   </a>
   <a href="https://stepik.org/users/37767932">
     <img align="center" alt="Stepik profile" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/stepik.svg" />
+  </a>
+  <a href="https://hyperskill.org/profile/4247407">
+  <img align="center" alt="Hyperskill profile" width="22px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/hyperskill.svg" />
   </a>
 </p>
