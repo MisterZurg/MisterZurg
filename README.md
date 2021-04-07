@@ -43,6 +43,9 @@
 <!--<img align="left" width="45px" src="resourses/kotlin.svg" />-->
 <img align="left" width="45px" src="resourses/opencv.svg" />
 <img align="left" width="45px" src="resourses/postgresql.svg" />
+<br />
+<br />
+<br />
 
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisterZurg&show_icons=true&theme=shades-of-purple" alt="MisterZurg" />
