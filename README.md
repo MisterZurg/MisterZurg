@@ -30,7 +30,7 @@
   </a>
 </p>
 
-- ⚙️ I’m currently working on Project: [Steganography and Cryptography](https://hyperskill.org/projects/160?track=3)
+- ⚙️ I’m currently working on Project: [Portfolio](https://hyperskill.org/projects/137?track=5)
 - 💡 I’m currently learning [Java. Базовый курс](https://stepik.org/course/187/syllabus)
 - 📘 Also I’m learning [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
 - 📖 I’m currently reading "Head First Go" by Jay McGavren
