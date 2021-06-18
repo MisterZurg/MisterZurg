@@ -10,9 +10,6 @@
   <a href="https://t.me/misterzurg">
     <img align="center" alt="Telegram chat" width="25px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/telegram.svg" />
   </a>
-  <a href="https://discord.gg/HruUqGwrkN">
-    <img align="center" alt="Discord Server" width="25px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/discord.svg" />
-  </a>
   <a href="https://www.linkedin.com/in/misterzurg/">
     <img align="center" alt="LinkedIn page" width="25px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/linkedin.svg" />
   </a>
@@ -30,10 +27,10 @@
   </a>
 </p>
 
-- ⚙️ I’m currently working on Project: [Portfolio](https://hyperskill.org/projects/137?track=5)
+- ⚙️ I’m currently working on Project: [Git Internals](https://hyperskill.org/projects/110?track=3)
 - 💡 I’m currently learning [Java. Базовый курс](https://stepik.org/course/187/syllabus)
-- 📘 Also I’m learning [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
-- 📖 I’m currently reading "Head First Go" by Jay McGavren
+- 📘 Also I’m learning [Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training)
+- 📖 I’m currently reading "Cracking the Coding Interview" by McDowell Gayle Laakmann
 - ⚡ Fun fact: Мой любимый цвет - весенний!
 
 ### Languages and Frameworks
