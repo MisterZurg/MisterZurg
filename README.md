@@ -25,11 +25,14 @@
   <a href="https://hyperskill.org/profile/4247407">
   <img align="center" alt="Hyperskill profile" width="25px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/hyperskill.svg" />
   </a>
+  <a href="https://leetcode.com/MisterZurg/">
+  <img align="center" alt="LeetCode profile" width="25px" src="https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/resourses/leetcode.svg" />
+  </a>
 </p>
 
 - ⚙️ I’m currently working on Project: [Git Internals](https://hyperskill.org/projects/110?track=3)
-- 💡 I’m currently learning [Java. Базовый курс](https://stepik.org/course/187/syllabus)
-- 📘 Also I’m learning [Тренировки по алгоритмам](https://yandex.ru/yaintern/algorithm-training)
+- 💡 I’m currently learning [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+- 📘 Also I’m learning [Тренировки по алгоритмам 2.0](https://yandex.ru/yaintern/algorithm-training)
 - 📖 I’m currently reading "Cracking the Coding Interview" by McDowell Gayle Laakmann
 - ⚡ Fun fact: Мой любимый цвет - весенний!
 
