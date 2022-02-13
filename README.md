@@ -50,14 +50,14 @@
 |----|----|----|----|----|
 
 
-<style>
+<!-- <style>
 .shades-of-purple{
   filter: invert(70%) sepia(14%) saturate(3032%) hue-rotate(204deg) brightness(96%) contrast(87%);
 }
 .shades-of-purple:hover{
   filter: invert(89%) sepia(13%) saturate(3138%) hue-rotate(337deg) brightness(112%) contrast(91%);
 }
-</style>
+</style> -->
 
 <br />
 <br />
