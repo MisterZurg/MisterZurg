@@ -38,7 +38,7 @@
 
 |Famil.|<img align="left" width="45px" src="resourses/javascript.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/vue-js.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/vuetify.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/material-design.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/postgresql.svg" class="shades-of-purple"/>
 |----|----|----|----|----|----|
-|<img align="left" width="45px" src=" resourses/prometheus.svg" class="shades-of-purple"/>|<img align="left" width="45px" src=" resourses/thanos.svg" class="shades-of-purple"/>|<img align="left" width="45px" src=" resourses/grafana.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/kafka.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/opencv.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/google-cloud.svg" class="shades-of-purple"/>
+|<img align="left" width="45px" src="resourses/prometheus.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/thanos.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/grafana.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/kafka.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/opencv.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/google-cloud.svg" class="shades-of-purple"/>
 |<img align="left" width="45px" src="resourses/docker.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/kubernetes.svg" class="shades-of-purple"/>
 
 ## IDE's
@@ -50,13 +50,13 @@
 |----|----|----|----|----|
 
 
-<!-- <style>
+<style>
 .shades-of-purple{
   filter: invert(70%) sepia(14%) saturate(3032%) hue-rotate(204deg) brightness(96%) contrast(87%);
 }
 .shades-of-purple:hover{
   filter: invert(89%) sepia(13%) saturate(3138%) hue-rotate(337deg) brightness(112%) contrast(91%);
-} -->
+}
 </style>
 
 <br />
@@ -68,5 +68,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterZurg&hide=html&theme=shades-of-purple&layout=compact">
 </p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=shades-of-purple&animation=default&layout=default&font=default)
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?type=horizontal&theme=shades-of-purple&animation=default&layout=default&font=default&quotesUrl=https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/quotes.json) -->
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?type=horizontal&theme=shades-of-purple&animation=default&layout=default&font=default&quotesUrl=https://raw.githubusercontent.com/MisterZurg/MisterZurg/main/quotes.json)
