@@ -25,29 +25,29 @@
 
 </p>
 
-- ⚙️ I’m currently working on Project: [ACSL Language Support 4 VS Code](https://frama-c.com/html/acsl.html)
+- ⚙️ I’m currently working on Project: [WASD AlertBox](TBA)
 - 💡 I’m currently learning [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
-- 📘 Also I’m learning [Ликбез по дискретной математике](https://stepik.org/course/91/info)
+- 📘 Also I’m learning [Теория вероятностей](https://stepik.org/course/3089/info)
 - 📖 I’m currently reading "Cracking the Coding Interview" by McDowell Gayle Laakmann
 - ⚡ Fun fact: Мой любимый цвет - весенний!
 
 ## Skills, Languages, Frameworks and Stuff
 |Prof.|<img align="left" width="45px" src="resourses/cyber-security.svg" class="shades-of-purple"/>|<img align="left" width="55px" src="resourses/go.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/python.svg" class="shades-of-purple"/>| <img align="left" width="45px" src="resourses/java.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/bash.svg" class="shades-of-purple"/>
-|----|----|----|----|----|----|
+|:----:|:----:|:----:|:----:|:----:|:----:|
 |<img align="left" width="45px" src="resourses/algorithm.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/data-structure.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="resourses/linux.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/gitlab.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/speaker.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/cisco.svg" class="shades-of-purple"/>|<br />
 
 |Famil.|<img align="left" width="45px" src="resourses/javascript.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/vue-js.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/vuetify.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/material-design.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/postgresql.svg" class="shades-of-purple"/>
-|----|----|----|----|----|----|
+|:----:|:----:|:----:|:----:|:----:|:----:|
 |<img align="left" width="45px" src="resourses/prometheus.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/thanos.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/grafana.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/kafka.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/opencv.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/google-cloud.svg" class="shades-of-purple"/>
 |<img align="left" width="45px" src="resourses/docker.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/kubernetes.svg" class="shades-of-purple"/>
 
 ## IDE's
 |<img align="left" width="45px" src="resourses/jetbrains.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/goland.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/pycharm.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/intellij-idea.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/webstorm.svg" class="shades-of-purple"/>
-|----|----|----|----|----|
+|:----:|:----:|:----:|:----:|:----:|
 
 ## Natural Languages
-|<a title="С2"><img align="left" width="45px" src="resourses/natural-languages/russian.png"/></a>|<a title="С1"><img align="left" width="45px" src="resourses/natural-languages/english.png"/></a>|<a title="B2"><img align="left" width="45px" src="resourses/natural-languages/german.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/czech.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/south-korean.png"/></a>
-|----|----|----|----|----|
+|<a title="С2"><img align="left" width="45px" src="resourses/natural-languages/russian.png"/></a>|<a title="С1"><img align="left" width="45px" src="resourses/natural-languages/english.png"/></a>|<a title="B2"><img align="left" width="45px" src="resourses/natural-languages/german.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/czech.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/south-korean.png"/></a>|<a title="A1"><img align="left" width="45px" src="resourses/natural-languages/french.png"/></a>|
+|:----:|:----:|:----:|:----:|:----:|:----:|
 
 
 <!-- <style>
