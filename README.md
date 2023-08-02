@@ -17,7 +17,7 @@
 
 |Backend|ML|
 |:----:|:-----:|
-|<p align="center"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|<p align="center"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
+|<p align="center"><a href="./CV/DenisZakharov-CV-August-2023-Backend.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>|<p align="center"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
 
 </p align="center"> 
 
