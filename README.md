@@ -6,10 +6,23 @@
 <h3 align="center">5Head longlife learner</h3>
 
 ### Education
-|University|Description|
-|----|----|
-|<a href="https://t.me/misterzurg"><img align="center" width=150px  src="resourses/universities/logo_osnovnoy_angliyskiy_belyy.png" class="shades-of-purple"/></a>|$(2022 \;— \;now)$ Currently persuing Master Degree in Big Data and Machine Learning|
-|<a href="https://t.me/misterzurg"><img align="center" width=150px  src="resourses/universities/sut-logo-eng-white.png" class="shades-of-purple"/></a>|$(2018 \;— \;2022)$ Bachelor of Information Security|
+
+<table>
+  <tr>
+    <th>University</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><img align="center" width=150px  src="./resourses/universities/logo_osnovnoy_angliyskiy_belyy.png" class="shades-of-purple"/></td>
+    <td>$(2022 \;— \;now)$ Currently persuing Master Degree in Big Data and Machine Learning</td>
+  </tr>
+  <tr>
+    <td><img align="center" width=150px  src="resourses/universities/sut-logo-eng-white.png" class="shades-of-purple"/></td>
+    <td>$(2018 \;— \;2022)$ Bachelor of Information Security</td>
+  </tr>
+</table>
+
+
 
 ### My CV's
 
