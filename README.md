@@ -8,8 +8,9 @@
 ### Education
 |University|Description|
 |----|----|
-|<a href="https://t.me/misterzurg"><img align="center" width=150px  src="resourses/universities/logo_osnovnoy_angliyskiy_belyy.png" class="shades-of-purple"/></a>|$(2022 \;— \;now)$ Currently persuing Master Degree in Big Data and Machine Learning|
-|<a href="https://t.me/misterzurg"><img align="center" width=150px  src="resourses/universities/sut-logo-eng-white.png" class="shades-of-purple"/></a>|$(2018 \;— \;2022)$ Bachelor of Information Security|
+|<img align="center" width=150px  src="resourses/tinkoff-edu.svg" />|$(2023 \;— \;now)$ Golang Software Engineer at Backend Academy|
+|<img align="center" width=150px  src="resourses/logo_osnovnoy_angliyskiy_belyy.svg" />|$(2022 \;— \;now)$ Currently persuing Master Degree in Big Data and Machine Learning|
+|<img align="center" width=150px  src="resourses/sut-logo-eng-white.svg" />|$(2018 \;— \;2022)$ Bachelor of Information Security|
 
 ### My CV's
 
