@@ -5,26 +5,13 @@
 -->
 <h3 align="center">5Head longlife learner</h3>
 
-### Education
 
-<table>
-  <tr>
-    <th>University</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><img align="center" width=150px  src="./resourses/tinkoff-edu.svg" class="shades-of-purple"/></td>
-    <td>$(2023 \;— \;now)$ Currently learning on the Golang Software Engineer track at Backend Academy</td>
-  </tr>
-  <tr>
-    <td><img align="center" width=150px  src="./resourses/logo_osnovnoy_angliyskiy_belyy.png" class="shades-of-purple"/></td>
-    <td>$(2022 \;— \;now)$ Currently persuing Master Degree in Big Data and Machine Learning</td>
-  </tr>
-  <tr>
-    <td><img align="center" width=150px  src="./resourses/sut-logo-eng-white.png" class="shades-of-purple"/></td>
-    <td>$(2018 \;— \;2022)$ Bachelor of Information Security</td>
-  </tr>
-</table>
+### Education
+|Backend|ML|
+|:----:|:-----|
+|Tinkoff| (2023 — now) Currently learning on the Golang Software Engineer track at Backend Academy|
+|ITMO| (2022 — now) Currently persuing Master Degree in Big Data and Machine Learning|
+|SPbSUT| (2018  — 2022) Bachelor of Information Security|
 
 
 ### My CV's
