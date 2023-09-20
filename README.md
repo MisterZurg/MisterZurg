@@ -7,7 +7,7 @@
 
 
 ### Education
-|Backend|ML|
+|University|Description|
 |:----:|:-----|
 |Tinkoff| (2023 — now) Currently learning on the Golang Software Engineer track at Backend Academy|
 |ITMO| (2022 — now) Currently persuing Master Degree in Big Data and Machine Learning|
@@ -39,7 +39,8 @@
 
 </p>
 
-- ⚙️ I’m currently working on Project: [Mooredoors](TBA)
+- ⚙️ I’m currently working on Project: [Mooredoors](https://github.com/MisterZurg/MoreDoors)
+- 🗿 지그언어를 공부하다: [zig](https://ziglang.org/)
 - 💡 I’m still learning [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - 📘 Also I’m also learning [Введение в Scala](https://stepik.org/course/16243/info)
 - 📖 I’m currently reading "System Design Interview - An Insider's Guide" by Alex Xu Volume 1
