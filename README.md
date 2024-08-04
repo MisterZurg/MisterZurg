@@ -1,7 +1,7 @@
 ### Hello there 👋
 ...General kenobi
 <!--
-**MisterZurg/MisterZurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+**MisterZurg/MisterZurg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h3 align="center">5Head longlife learner</h3>
 
@@ -9,8 +9,9 @@
 ### Education
 |University|Description|
 |:----:|:-----|
-|Tinkoff| (2023 — now) Currently learning on the Golang Software Engineer track at Backend Academy|
-|ITMO| (2022 — now) Currently persuing Master Degree in Big Data and Machine Learning|
+|T-Bank| (2024 — now) Currently learning on the Java Software Engineer track at Backend Academy|
+|Tinkoff| (2023 — 2024) Golang Software Engineer track at Backend Academy|
+|ITMO| (2022 — 2024) Master of Big Data and Machine Learning|
 |SPbSUT| (2018  — 2022) Bachelor of Information Security|
 
 
@@ -20,9 +21,9 @@
 
 |Backend|ML|
 |:----:|:-----:|
-|<p align="center"><a href="./CV/DenisZakharov-CV-May-2024-Backend.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>|<p align="center"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
+|<p align="center"><a href="./CV/DenisZakharov-CV-August-2024-Backend.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>|<p align="center"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
 
-</p align="center"> 
+</p align="center">
 
 ### 💬 Social
 | <a href="https://t.me/misterzurg"><img align="left" width="45px" src="resourses/telegram.svg" class="shades-of-purple"/></a>  | <a href="https://www.linkedin.com/in/misterzurg/"><img align="left" width="45px" src="resourses/linkedin.svg" class="shades-of-purple"/></a>|<a href="https://career.habr.com/misterzurg"><img align="left" width="45px" src="resourses/habr.svg" class="shades-of-purple"/></a>|<a href="https://www.slideshare.net/ssuserfa68c1"><img align="left" width="45px" src="resourses/slideshare.svg" class="shades-of-purple"/></a>|<a href="https://www.credly.com/users/denis-zakharov/badges"><img align="left" width="45px" src="resourses/credly.svg" class="shades-of-purple"/></a>
@@ -39,20 +40,20 @@
 
 </p>
 
-- ⚙️ I’m currently working on Project: [Mooredoors](https://github.com/MisterZurg/MoreDoors)
+- ⚙️ I’m currently working on Project: [Программирование на Rust](https://stepik.org/course/192252/syllabus)
 - 🗿 지그언어를 공부하다: [zig](https://ziglang.org/) 和 [rust](https://www.rust-lang.org/)
 - 💡 I’m still learning [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 - 📘 Also I’m also learning [Введение в Scala](https://stepik.org/course/16243/info)
-- 📖 I’m currently reading "System Design Interview - An Insider's Guide" by Alex Xu Volume 1
+- 📖 I’m currently reading опросник Подольского
 - ⚡ Fun fact: Мой любимый цвет - весенний!
-<!-- 
+<!--
 ## Skills, Languages, Frameworks and Stuff
 > Click 4 expanding the slider -->
 
-<!-- 
+<!--
 <details>
   <summary>BackEnd</summary>
-  
+
 |Prof.|<img align="left" width="45px" src="resourses/cyber-security.svg" class="shades-of-purple"/>|<img align="left" width="55px" src="resourses/go.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/python.svg" class="shades-of-purple"/>| <img align="left" width="45px" src="resourses/java.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/bash.svg" class="shades-of-purple"/>
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |<img align="left" width="45px" src="resourses/algorithm.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/data-structure.svg" class="shades-of-purple"/> |<img align="left" width="45px" src="resourses/linux.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/gitlab.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/speaker.svg" class="shades-of-purple"/>|<img align="left" width="45px" src="resourses/cisco.svg" class="shades-of-purple"/>|<br />
@@ -70,7 +71,7 @@
 
 <details>
   <summary>Data Science</summary>
-  
+
 
 </details> -->
 
@@ -96,7 +97,7 @@
 <br />
 <br />
 
-<p align="center"> 
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisterZurg&show_icons=true&theme=shades-of-purple" alt="MisterZurg" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterZurg&hide=html,jupyter%20notebook&theme=shades-of-purple&layout=compact">
 </p>
