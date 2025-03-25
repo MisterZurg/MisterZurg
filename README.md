@@ -9,19 +9,21 @@
 ### Education
 |University|Description|
 |:----:|:-----|
-|T-Bank| (2024 — now) Currently learning on the Java Software Engineer track at Backend Academy|
-|Tinkoff| (2023 — 2024) Golang Software Engineer track at Backend Academy|
-|ITMO| (2022 — 2024) Master of Big Data and Machine Learning|
-|SPbSUT| (2018  — 2022) Bachelor of Information Security|
+|wbtech| (2024 — 2025) Rust Software Engineer course at Techschool |
+|T-Bank| (2024 — 2025) SRE course at Backend Academy |
+|T-Bank| (2024 — 2025) Java Software Engineer track at Backend Academy |
+|Tinkoff| (2023 — 2024) Golang Software Engineer track at Backend Academy |
+|ITMO| (2022 — 2024) Master of Big Data and Machine Learning |
+|SPbSUT| (2018  — 2022) Bachelor of Information Security |
 
 
 ### My CV's
 
 <p align="center">
 
-|Backend|ML|
-|:----:|:-----:|
-|<p align="center"><a href="./CV/DenisZakharov-CV-August-2024-Backend.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>|<p align="center"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
+|Backend|ML|Web3|
+|:----:|:-----:|:-----:|
+|<p align="center"><a href="./CV/backend/DenisZakharov-CV-March-2025-Backend.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p></a>|<p align="center"><a href="./CV/ml/DenisZakharov-CV-March-2025-ML.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|<p align="center"><a href="./CV/web3/DenisZakharov-CV-March-2025-WEB3.pdf"><img align="center" width="45px" src="resourses/cv.svg" class="shades-of-purple"/></p>|
 
 </p align="center">
 
@@ -41,10 +43,10 @@
 </p>
 
 - ⚙️ I’m currently working on Project: [Программирование на Rust](https://stepik.org/course/192252/syllabus)
-- 🗿 지그언어를 공부하다: [zig](https://ziglang.org/) 和 [rust](https://www.rust-lang.org/)
+- 🗿 지그언어를 공부하다: [zig](https://ziglang.org/) 和 [rust](https://www.rust-lang.org/) TFTDS and Solana
 - 💡 I’m still learning [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
-- 📘 Also I’m also learning [Введение в Scala](https://stepik.org/course/16243/info)
-- 📖 I’m currently reading опросник Подольского
+- 📘 Also I’m also learning [TFTDS](https://gitlab.com/Lipovsky/awesome-distsys) and [Cuncurrency](https://gitlab.com/Lipovsky/awesome-concurrency) by supreme Roman Germanovich Lipovsky
+- 📖 I’m currently reading "Escape from freedom" by Erich Fromm
 - ⚡ Fun fact: Мой любимый цвет - весенний!
 <!--
 ## Skills, Languages, Frameworks and Stuff
